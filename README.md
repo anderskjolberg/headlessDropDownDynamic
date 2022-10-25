@@ -11,3 +11,6 @@
 <p>
 TargetComponent.vue
 </p>
+    
+    * npm install @headlessui/vue (https://headlessui.com/)
+    * npm install @heroicons/vue (https://github.com/tailwindlabs/heroicons)
